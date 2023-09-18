@@ -3,10 +3,10 @@ package handler
 import (
 	"net/http"
 
-	"awesomeDemo/order/internal/logic"
-	"awesomeDemo/order/internal/svc"
-	"awesomeDemo/order/internal/types"
 	"github.com/zeromicro/go-zero/rest/httpx"
+	"go-zero-awesome/order/internal/logic"
+	"go-zero-awesome/order/internal/svc"
+	"go-zero-awesome/order/internal/types"
 )
 
 func OrderHandler(svcCtx *svc.ServiceContext) http.HandlerFunc {

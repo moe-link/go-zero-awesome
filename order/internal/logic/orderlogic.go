@@ -3,8 +3,8 @@ package logic
 import (
 	"context"
 
-	"awesomeDemo/order/internal/svc"
-	"awesomeDemo/order/internal/types"
+	"go-zero-awesome/order/internal/svc"
+	"go-zero-awesome/order/internal/types"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

@@ -1,7 +1,7 @@
 package svc
 
 import (
-	"awesomeDemo/order/internal/config"
+	"go-zero-awesome/order/internal/config"
 )
 
 type ServiceContext struct {

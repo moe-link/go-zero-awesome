@@ -1,4 +1,4 @@
-module awesomeDemo
+module go-zero-awesome
 
 go 1.20
 

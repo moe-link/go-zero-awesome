@@ -1,10 +1,10 @@
 package logic
 
 import (
-	"awesomeDemo/user/internal/svc"
-	"awesomeDemo/user/internal/types"
 	"context"
 	"github.com/zeromicro/go-zero/core/logx"
+	"go-zero-awesome/user/internal/svc"
+	"go-zero-awesome/user/internal/types"
 )
 
 type UserLogic struct {

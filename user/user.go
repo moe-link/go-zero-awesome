@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"awesomeDemo/user/internal/config"
-	"awesomeDemo/user/internal/handler"
-	"awesomeDemo/user/internal/svc"
+	"go-zero-awesome/user/internal/config"
+	"go-zero-awesome/user/internal/handler"
+	"go-zero-awesome/user/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"
